@@ -58,6 +58,8 @@ add map
 topic: /global_costmap/costmap
 update topic: /global_costmap/costmap_updates
 color scheme: costmap
+# I followed based on the existing slam technique,
+https://www.youtube.com/watch?v=ZaiA3hWaRzE
 in rviz on right hand side there you will see 2D Goal pose
 Click on 2D Goal Pose and click on the map u can see gazebo moves to that point while avoiding the obstacle.
 
