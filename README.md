@@ -18,7 +18,9 @@ ros2 launch bot_one launch_sim.launch.py
 ```
 # To move the vehicle
 You can either move through joystick or keyboard.
+
 For joystick make sure channel 6 and channel 7 are ON.
+
 For Keyboard: Run the ros package in new tab.
 ```
 ros2 run teleop_twist_keyboard teleop_twist_keyboard
