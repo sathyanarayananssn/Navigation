@@ -21,7 +21,7 @@ def generate_launch_description():
     world = os.path.join(
         get_package_share_directory('bot_one'),
         'worlds',
-        'obstacles1.world'
+        'worldtest.world'
     )
 
 
